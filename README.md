@@ -15,7 +15,7 @@ Corpus of **640 included papers** (Scopus + ACM DL, 2022 – early 2026; backwar
 | RQ1 — Landscape | 4 figures + descriptive stats | `artifacts/analysis/rq1_landscape/` |
 | RQ2 — Interaction-mode taxonomy | 5 modes + Residuals; saturation: **Saturated** | `artifacts/synthesis/interaction_taxonomy.md` |
 | RQ3 — Capability-evidence gaps | 19 × 9 gap matrix (171 cells); 42 gaps at P25 | `artifacts/analysis/rq3_gap_matrix/` |
-| RQ4 — Research agenda (ERP3 hand-off) | 6 Wieringa-typed study calls; 42 ranked gaps | `artifacts/analysis/research_agenda.md`, `prioritised_gaps.md` |
+| Research agenda (ERP3 hand-off) | 6 Wieringa-typed study calls; 42 ranked gaps | `artifacts/analysis/research_agenda.md`, `prioritised_gaps.md` |
 | Trustworthiness | Cruzes & Dybå 4-criteria + Wieringa self-assessment + threshold sensitivity + novelty | `artifacts/trustworthiness/` (6 MDs) |
 
 ---
