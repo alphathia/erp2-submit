@@ -1,0 +1,172 @@
+capability_id,sdlc_activity,evidence_count,is_gap,is_empty,in_source_survey
+CAP_CICD,Requirements,0,False,True,2
+CAP_CICD,Design,1,True,False,2
+CAP_CICD,Coding,2,False,False,2
+CAP_CICD,Testing,0,False,True,2
+CAP_CICD,Code Review,0,False,True,2
+CAP_CICD,Debugging,0,False,True,2
+CAP_CICD,Documentation,0,False,True,2
+CAP_CICD,CI/CD,2,False,False,2
+CAP_CICD,Project Management,0,False,True,2
+CAP_CODECOMP,Requirements,0,False,True,3
+CAP_CODECOMP,Design,0,False,True,3
+CAP_CODECOMP,Coding,0,False,True,3
+CAP_CODECOMP,Testing,0,False,True,3
+CAP_CODECOMP,Code Review,0,False,True,3
+CAP_CODECOMP,Debugging,0,False,True,3
+CAP_CODECOMP,Documentation,1,True,False,3
+CAP_CODECOMP,CI/CD,0,False,True,3
+CAP_CODECOMP,Project Management,0,False,True,3
+CAP_CODEGEN,Requirements,1,True,False,3
+CAP_CODEGEN,Design,0,False,True,3
+CAP_CODEGEN,Coding,6,False,False,3
+CAP_CODEGEN,Testing,1,True,False,3
+CAP_CODEGEN,Code Review,0,False,True,3
+CAP_CODEGEN,Debugging,1,True,False,3
+CAP_CODEGEN,Documentation,0,False,True,3
+CAP_CODEGEN,CI/CD,1,True,False,3
+CAP_CODEGEN,Project Management,0,False,True,3
+CAP_CODEREVIEW,Requirements,0,False,True,3
+CAP_CODEREVIEW,Design,0,False,True,3
+CAP_CODEREVIEW,Coding,1,True,False,3
+CAP_CODEREVIEW,Testing,0,False,True,3
+CAP_CODEREVIEW,Code Review,1,True,False,3
+CAP_CODEREVIEW,Debugging,0,False,True,3
+CAP_CODEREVIEW,Documentation,0,False,True,3
+CAP_CODEREVIEW,CI/CD,0,False,True,3
+CAP_CODEREVIEW,Project Management,0,False,True,3
+CAP_CODESEARCH,Requirements,0,False,True,1
+CAP_CODESEARCH,Design,0,False,True,1
+CAP_CODESEARCH,Coding,0,False,True,1
+CAP_CODESEARCH,Testing,0,False,True,1
+CAP_CODESEARCH,Code Review,0,False,True,1
+CAP_CODESEARCH,Debugging,0,False,True,1
+CAP_CODESEARCH,Documentation,0,False,True,1
+CAP_CODESEARCH,CI/CD,0,False,True,1
+CAP_CODESEARCH,Project Management,0,False,True,1
+CAP_CODESUM,Requirements,0,False,True,1
+CAP_CODESUM,Design,0,False,True,1
+CAP_CODESUM,Coding,0,False,True,1
+CAP_CODESUM,Testing,1,True,False,1
+CAP_CODESUM,Code Review,0,False,True,1
+CAP_CODESUM,Debugging,0,False,True,1
+CAP_CODESUM,Documentation,0,False,True,1
+CAP_CODESUM,CI/CD,0,False,True,1
+CAP_CODESUM,Project Management,0,False,True,1
+CAP_CODETRANS,Requirements,0,False,True,3
+CAP_CODETRANS,Design,0,False,True,3
+CAP_CODETRANS,Coding,0,False,True,3
+CAP_CODETRANS,Testing,0,False,True,3
+CAP_CODETRANS,Code Review,0,False,True,3
+CAP_CODETRANS,Debugging,0,False,True,3
+CAP_CODETRANS,Documentation,0,False,True,3
+CAP_CODETRANS,CI/CD,0,False,True,3
+CAP_CODETRANS,Project Management,0,False,True,3
+CAP_COMMITMSG,Requirements,0,False,True,1
+CAP_COMMITMSG,Design,0,False,True,1
+CAP_COMMITMSG,Coding,0,False,True,1
+CAP_COMMITMSG,Testing,0,False,True,1
+CAP_COMMITMSG,Code Review,0,False,True,1
+CAP_COMMITMSG,Debugging,0,False,True,1
+CAP_COMMITMSG,Documentation,0,False,True,1
+CAP_COMMITMSG,CI/CD,0,False,True,1
+CAP_COMMITMSG,Project Management,0,False,True,1
+CAP_DEBUGGING,Requirements,1,True,False,3
+CAP_DEBUGGING,Design,1,True,False,3
+CAP_DEBUGGING,Coding,1,True,False,3
+CAP_DEBUGGING,Testing,2,False,False,3
+CAP_DEBUGGING,Code Review,0,False,True,3
+CAP_DEBUGGING,Debugging,2,False,False,3
+CAP_DEBUGGING,Documentation,0,False,True,3
+CAP_DEBUGGING,CI/CD,0,False,True,3
+CAP_DEBUGGING,Project Management,0,False,True,3
+CAP_DOCGEN,Requirements,1,True,False,3
+CAP_DOCGEN,Design,0,False,True,3
+CAP_DOCGEN,Coding,0,False,True,3
+CAP_DOCGEN,Testing,0,False,True,3
+CAP_DOCGEN,Code Review,0,False,True,3
+CAP_DOCGEN,Debugging,0,False,True,3
+CAP_DOCGEN,Documentation,4,False,False,3
+CAP_DOCGEN,CI/CD,0,False,True,3
+CAP_DOCGEN,Project Management,1,True,False,3
+CAP_MULTIAGENT,Requirements,1,True,False,2
+CAP_MULTIAGENT,Design,0,False,True,2
+CAP_MULTIAGENT,Coding,2,False,False,2
+CAP_MULTIAGENT,Testing,0,False,True,2
+CAP_MULTIAGENT,Code Review,0,False,True,2
+CAP_MULTIAGENT,Debugging,0,False,True,2
+CAP_MULTIAGENT,Documentation,0,False,True,2
+CAP_MULTIAGENT,CI/CD,0,False,True,2
+CAP_MULTIAGENT,Project Management,0,False,True,2
+CAP_PLANNING,Requirements,1,True,False,2
+CAP_PLANNING,Design,1,True,False,2
+CAP_PLANNING,Coding,1,True,False,2
+CAP_PLANNING,Testing,1,True,False,2
+CAP_PLANNING,Code Review,0,False,True,2
+CAP_PLANNING,Debugging,1,True,False,2
+CAP_PLANNING,Documentation,1,True,False,2
+CAP_PLANNING,CI/CD,0,False,True,2
+CAP_PLANNING,Project Management,2,False,False,2
+CAP_PROGREPAIR,Requirements,0,False,True,3
+CAP_PROGREPAIR,Design,0,False,True,3
+CAP_PROGREPAIR,Coding,1,True,False,3
+CAP_PROGREPAIR,Testing,0,False,True,3
+CAP_PROGREPAIR,Code Review,0,False,True,3
+CAP_PROGREPAIR,Debugging,0,False,True,3
+CAP_PROGREPAIR,Documentation,0,False,True,3
+CAP_PROGREPAIR,CI/CD,0,False,True,3
+CAP_PROGREPAIR,Project Management,0,False,True,3
+CAP_REFACTORING,Requirements,0,False,True,2
+CAP_REFACTORING,Design,0,False,True,2
+CAP_REFACTORING,Coding,0,False,True,2
+CAP_REFACTORING,Testing,0,False,True,2
+CAP_REFACTORING,Code Review,0,False,True,2
+CAP_REFACTORING,Debugging,0,False,True,2
+CAP_REFACTORING,Documentation,0,False,True,2
+CAP_REFACTORING,CI/CD,0,False,True,2
+CAP_REFACTORING,Project Management,0,False,True,2
+CAP_REQENG,Requirements,5,False,False,2
+CAP_REQENG,Design,4,False,False,2
+CAP_REQENG,Coding,2,False,False,2
+CAP_REQENG,Testing,2,False,False,2
+CAP_REQENG,Code Review,0,False,True,2
+CAP_REQENG,Debugging,1,True,False,2
+CAP_REQENG,Documentation,1,True,False,2
+CAP_REQENG,CI/CD,0,False,True,2
+CAP_REQENG,Project Management,0,False,True,2
+CAP_SELFREFLECT,Requirements,2,False,False,3
+CAP_SELFREFLECT,Design,0,False,True,3
+CAP_SELFREFLECT,Coding,0,False,True,3
+CAP_SELFREFLECT,Testing,1,True,False,3
+CAP_SELFREFLECT,Code Review,0,False,True,3
+CAP_SELFREFLECT,Debugging,0,False,True,3
+CAP_SELFREFLECT,Documentation,0,False,True,3
+CAP_SELFREFLECT,CI/CD,0,False,True,3
+CAP_SELFREFLECT,Project Management,1,True,False,3
+CAP_SYSDESIGN,Requirements,1,True,False,1
+CAP_SYSDESIGN,Design,3,False,False,1
+CAP_SYSDESIGN,Coding,1,True,False,1
+CAP_SYSDESIGN,Testing,0,False,True,1
+CAP_SYSDESIGN,Code Review,0,False,True,1
+CAP_SYSDESIGN,Debugging,0,False,True,1
+CAP_SYSDESIGN,Documentation,0,False,True,1
+CAP_SYSDESIGN,CI/CD,1,True,False,1
+CAP_SYSDESIGN,Project Management,0,False,True,1
+CAP_TESTING,Requirements,2,False,False,3
+CAP_TESTING,Design,2,False,False,3
+CAP_TESTING,Coding,3,False,False,3
+CAP_TESTING,Testing,7,False,False,3
+CAP_TESTING,Code Review,0,False,True,3
+CAP_TESTING,Debugging,2,False,False,3
+CAP_TESTING,Documentation,0,False,True,3
+CAP_TESTING,CI/CD,0,False,True,3
+CAP_TESTING,Project Management,0,False,True,3
+CAP_VULNDET,Requirements,0,False,True,2
+CAP_VULNDET,Design,0,False,True,2
+CAP_VULNDET,Coding,0,False,True,2
+CAP_VULNDET,Testing,0,False,True,2
+CAP_VULNDET,Code Review,0,False,True,2
+CAP_VULNDET,Debugging,0,False,True,2
+CAP_VULNDET,Documentation,0,False,True,2
+CAP_VULNDET,CI/CD,0,False,True,2
+CAP_VULNDET,Project Management,0,False,True,2

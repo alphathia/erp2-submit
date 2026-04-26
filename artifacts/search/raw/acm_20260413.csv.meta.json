@@ -1,0 +1,15 @@
+{
+  "generated_by": "erp2-sms pipeline",
+  "script": "code/acm_bib2csv.py",
+  "inputs": [
+    "artifacts/search/raw/acm_raw/acm s2.bib",
+    "artifacts/search/raw/acm_raw/acm s4.bib",
+    "artifacts/search/raw/acm_raw/acm s5.bib",
+    "artifacts/search/raw/acm_raw/acm s6.bib",
+    "artifacts/search/raw/acm_raw/acm_s1.bib",
+    "artifacts/search/raw/acm_raw/acm_s3.bib"
+  ],
+  "git_sha": "a22b56ba8cd91039869646941ba3c333ce368e5c",
+  "timestamp": "2026-04-13T14:31:52.977812+00:00",
+  "seed": 42
+}

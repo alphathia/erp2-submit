@@ -1,0 +1,10 @@
+{
+  "generated_by": "erp2-sms pipeline",
+  "script": "code/retrieval.py",
+  "inputs": [
+    "artifacts/screening/included_set.csv"
+  ],
+  "git_sha": "15def5c83497ed578734185cd399cf19a98ee47f",
+  "timestamp": "2026-04-16T08:51:30.440919+00:00",
+  "seed": 42
+}

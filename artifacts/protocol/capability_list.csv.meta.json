@@ -1,0 +1,12 @@
+{
+  "generated_by": "erp2-sms pipeline",
+  "script": "manual_extraction",
+  "inputs": [
+    "docs/seeds/Otoum and Elkhalili - 2026 - Methods and Techniques of Agentic Software Engineering A Systematic Literature Review.pdf",
+    "docs/seeds/Wang et al. - 2025 - Agents in software engineering survey, landscape, and vision.pdf",
+    "docs/seeds/Wang et al. - 2025 - AI Agentic Programming A Survey of Techniques, Challenges, and Opportunities.pdf"
+  ],
+  "git_sha": "779f25b90b519f3c04a24aa1906b53371d2e0dad",
+  "timestamp": "2026-04-12T12:18:05.967444+00:00",
+  "seed": 42
+}

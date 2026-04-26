@@ -1,0 +1,10 @@
+{
+  "generated_by": "erp2-sms pipeline",
+  "script": "code/analysis_rq1.py",
+  "inputs": [
+    "artifacts/extraction/extraction_matrix.csv"
+  ],
+  "git_sha": "ef36de85f3206cd98652b27154fbf756cccd10ca",
+  "timestamp": "2026-04-24T08:44:33.137077+00:00",
+  "seed": 42
+}

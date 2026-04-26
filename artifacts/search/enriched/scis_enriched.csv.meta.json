@@ -1,0 +1,35 @@
+{
+  "generated_by": "erp2-sms pipeline",
+  "script": "code/scis_enrich.py",
+  "inputs": [
+    "artifacts/search/enriched/merged_openalex.csv",
+    "ERP_SCISList.xlsx"
+  ],
+  "git_sha": "aa7ee3181b0c4c4d28d60bec62fcbed05bbac022",
+  "timestamp": "2026-04-14T03:42:56.249372+00:00",
+  "seed": 42,
+  "pipeline_stats": {
+    "input_rows": 4625,
+    "output_rows": 4625,
+    "output_cols": 33,
+    "scis_matched": 821,
+    "scis_match_rate": 0.1775,
+    "match_by_method": {
+      "issn": 319,
+      "name": 341,
+      "acronym": 161,
+      "not_found": 3804
+    },
+    "match_by_rank": {
+      "A*": 380,
+      "A": 368,
+      "B": 73,
+      "Not found": 3804
+    },
+    "match_by_venue_type": {
+      "Journal": 529,
+      "Conference": 292,
+      "Not found": 3804
+    }
+  }
+}

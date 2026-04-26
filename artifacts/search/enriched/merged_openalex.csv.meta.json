@@ -1,0 +1,34 @@
+{
+  "generated_by": "erp2-sms pipeline",
+  "script": "code/openalex_enrich.py",
+  "inputs": [
+    "artifacts/search/raw/scopus_20260413.csv",
+    "artifacts/search/raw/acm_20260413.csv"
+  ],
+  "git_sha": "db5d5ef13872a0eb73b0ff5abb1d6c1c6f925166",
+  "timestamp": "2026-04-13T22:55:30.643838+00:00",
+  "seed": 42,
+  "pipeline_stats": {
+    "scopus_rows": 4156,
+    "acm_dl_rows": 469,
+    "combined_rows": 4625,
+    "unique_dois_queried": 3967,
+    "null_doi_rows": 281,
+    "openalex_match_rate": 0.9771,
+    "openalex_lookup_status": {
+      "matched": 4247,
+      "no_doi": 281,
+      "no_match": 97
+    },
+    "abstracts_nonnull": 3833,
+    "abstracts_total": 4625,
+    "abstracts_fill_rate": 0.8288,
+    "flags": {
+      "ic3_mismatch": 8,
+      "preprint": 4,
+      "retracted": 0,
+      "paratext": 1
+    },
+    "flags_total": 13
+  }
+}

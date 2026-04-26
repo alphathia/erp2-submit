@@ -1,0 +1,17 @@
+{
+  "generated_by": "erp2-sms pipeline",
+  "script": "code/prisma_builder.py",
+  "inputs": [
+    "artifacts/search/raw/scopus_20260413.csv",
+    "artifacts/search/raw/acm_20260413.csv",
+    "artifacts/search/enriched/merged_openalex.csv",
+    "artifacts/search/enriched/dedup.csv",
+    "artifacts/search/post_filtered.csv",
+    "artifacts/screening/phase2_decisions.csv",
+    "artifacts/screening/included_set.csv",
+    "artifacts/search/raw/snowball_seeds_refs.csv"
+  ],
+  "git_sha": "e32000269ebdeb361ed2780f623b85b546b21649",
+  "timestamp": "2026-04-16T02:49:00.985140+00:00",
+  "seed": 42
+}

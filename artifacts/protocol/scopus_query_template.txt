@@ -1,0 +1,28 @@
+(
+  TITLE-ABS-KEY(
+    (
+      (("AI coding assistant" OR "AI code generation" OR "LLM-based coding" OR "LLM coding assistant") AND ("usage" OR "adoption" OR "practice" OR "experience"))
+      OR
+      (("GitHub Copilot" OR "ChatGPT" OR "Antigravity" OR "Claude Code" OR "Cursor" OR "Windsurf" OR "Devin" OR "Power Platform" OR "n8n" OR "AppSheet" OR "Amazon Q" OR "Codex") AND ("software engineering" OR "software development" OR "application development"))
+      OR
+      (("agentic software engineering" OR "SE agent" OR "coding agent") AND ("empirical" OR "case study" OR "survey" OR "interview"))
+      OR
+      (("AI-assisted programming" OR "AI pair programming" OR "AI-assisted development") AND ("developer" OR "software engineer" OR "SWE" OR "practitioner" OR "student" OR "citizen developer" OR "business user"))
+      OR
+      (("LLM" OR "large language model") AND ("code review" OR "testing" OR "debugging" OR "deployment") AND ("human" OR "user"))
+      OR
+      (("low-code" OR "no-code" OR "citizen developer" OR "workflow automation") AND ("AI" OR "LLM" OR "large language model" OR "copilot" OR "agent") AND ("software development" OR "software engineering" OR "application development" OR "app development"))
+    )
+  )
+  AND (PUBYEAR > 2021 AND PUBYEAR < 2027)
+  AND LANGUAGE(english)
+  AND (SRCTYPE(j) OR SRCTYPE(p))
+  AND (DOCTYPE(ar) OR DOCTYPE(cp))
+  AND NOT DOCTYPE(re)
+  AND NOT DOCTYPE(ed)
+  AND NOT DOCTYPE(no)
+  AND NOT DOCTYPE(le)
+  AND NOT DOCTYPE(sh)
+  AND NOT DOCTYPE(er)
+  AND NOT DOCTYPE(rt)
+)

@@ -1,0 +1,27 @@
+{
+  "generated_by": "erp2-sms pipeline",
+  "script": "code/dedup.py",
+  "inputs": [
+    "artifacts/search/enriched/scis_enriched.csv"
+  ],
+  "git_sha": "aa7ee3181b0c4c4d28d60bec62fcbed05bbac022",
+  "timestamp": "2026-04-14T03:44:35.555109+00:00",
+  "seed": 42,
+  "pipeline_stats": {
+    "rows_in": 4625,
+    "rows_out": 4246,
+    "rows_removed": 379,
+    "reduction_rate": 0.0819,
+    "doi_stats": {
+      "rows_with_doi": 4344,
+      "rows_without_doi": 281,
+      "unique_dois": 3967,
+      "duplicate_groups": 375,
+      "provenance_merged": 339
+    },
+    "fallback_stats": {
+      "fallback_groups": 279,
+      "fallback_duplicates": 2
+    }
+  }
+}

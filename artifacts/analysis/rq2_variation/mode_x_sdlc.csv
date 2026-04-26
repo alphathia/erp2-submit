@@ -1,0 +1,8 @@
+mode,Coding,Testing,Debugging,Code Review,Requirements,Design,Documentation,Project Management,CI/CD
+1,4,2,2,0,1,1,0,1,0
+2,56,32,40,16,14,14,20,3,1
+3,9,4,3,0,2,3,2,0,0
+4,56,43,44,27,17,13,16,6,4
+5,66,60,45,16,19,19,23,6,11
+r,155,95,87,42,38,42,41,14,10
+file_unique_papers,286,0,0,0,0,0,0,0,0

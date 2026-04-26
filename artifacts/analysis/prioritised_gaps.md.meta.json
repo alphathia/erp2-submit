@@ -1,0 +1,12 @@
+{
+  "generated_by": "erp2-sms pipeline",
+  "script": "code/prioritize_gaps.py",
+  "inputs": [
+    "artifacts/analysis/rq3_gap_matrix/gap_matrix.csv",
+    "artifacts/protocol/capability_list.csv",
+    "decision_register.csv"
+  ],
+  "git_sha": "df5d0ec74418487e61ced3dcbfc53653f80af261",
+  "timestamp": "2026-04-20T04:07:32.358872+00:00",
+  "seed": 42
+}

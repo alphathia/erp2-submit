@@ -1,0 +1,26 @@
+{
+  "generated_by": "erp2-sms pipeline",
+  "script": "code/page_filter.py",
+  "inputs": [
+    "artifacts/search/enriched/dedup.csv"
+  ],
+  "git_sha": "aa7ee3181b0c4c4d28d60bec62fcbed05bbac022",
+  "timestamp": "2026-04-14T03:44:44.404362+00:00",
+  "seed": 42,
+  "pipeline_stats": {
+    "total_rows": 4246,
+    "ic5_status": {
+      "pass": 2380,
+      "fail": 153,
+      "manual_review": 1713
+    },
+    "ic5_threshold_pages": 4,
+    "page_count_stats": {
+      "min": 1,
+      "max": 98,
+      "mean": 11.21,
+      "median": 9,
+      "parsed_count": 2533
+    }
+  }
+}

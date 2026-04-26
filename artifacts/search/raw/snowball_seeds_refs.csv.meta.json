@@ -1,0 +1,15 @@
+{
+  "generated_by": "erp2-sms pipeline",
+  "script": "code/snowball.py",
+  "inputs": [
+    "docs/seeds/Ajimati et al. - 2025 - Adoption of low-code and no-code development A systematic literature review and future research age.pdf",
+    "docs/seeds/Liu et al. - 2026 - Large Language Model-Based Agents for Software Engineering A Survey.pdf",
+    "docs/seeds/Otoum and Elkhalili - 2026 - Methods and Techniques of Agentic Software Engineering A Systematic Literature Review.pdf",
+    "docs/seeds/Wang et al. - 2025 - AI Agentic Programming A Survey of Techniques, Challenges, and Opportunities.pdf",
+    "docs/seeds/Wang et al. - 2025 - Agents in software engineering survey, landscape, and vision.pdf",
+    "artifacts/screening/included_set.csv"
+  ],
+  "git_sha": "270cf69163d28cc931c9ddfc313dc02e96571539",
+  "timestamp": "2026-04-16T01:42:47.802754+00:00",
+  "seed": 42
+}

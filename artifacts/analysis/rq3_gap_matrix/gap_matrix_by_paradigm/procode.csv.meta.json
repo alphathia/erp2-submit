@@ -1,0 +1,12 @@
+{
+  "generated_by": "erp2-sms pipeline",
+  "script": "code/analysis_rq3.py",
+  "inputs": [
+    "artifacts/extraction/capability_annotations.csv",
+    "artifacts/extraction/extraction_matrix.csv",
+    "filter: f5_tool_paradigm == 'Pro-code'"
+  ],
+  "git_sha": "df5d0ec74418487e61ced3dcbfc53653f80af261",
+  "timestamp": "2026-04-20T04:05:11.061970+00:00",
+  "seed": 42
+}

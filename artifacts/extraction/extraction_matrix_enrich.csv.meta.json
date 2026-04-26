@@ -1,0 +1,11 @@
+{
+  "generated_by": "erp2-sms pipeline",
+  "script": "code/extraction_matrix_enrich.py",
+  "inputs": [
+    "artifacts/extraction/extraction_matrix.csv",
+    "artifacts/search/post_filtered.csv"
+  ],
+  "git_sha": "b0eca03b899964f81afae6b1bd94e4f807a5dafa",
+  "timestamp": "2026-04-23T03:22:07.544638+00:00",
+  "seed": 42
+}
