@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# Full-text PDFs (large binary files — not committed to git; retrieved
+# per-session by code/retrieval.py and tracked via retrieval_status.csv)
+artifacts/extraction/fulltext/
+
+# Snowball dry-run report logs (live-run report is committed with the CSV)
+artifacts/search/raw/reports/
+
+# Rater spreadsheet exports (may contain ad-hoc annotations; not
+# reproducible from the pipeline)
+artifacts/screening/*.xlsx
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local agent/IDE state (Claude Code worktrees, plans, session data)
+.claude/
+
+# API response caches (regenerable; not committed)
+artifacts/extraction/.crossref_author_cache.json
+
+# Scratch/tempfolder (ad-hoc experimentation, not pipeline code)
+tempfolder/
+
+# Pre-implementation design specs (kept locally for development reference;
+# not part of the public reproducibility bundle)
+design/
